@@ -1,0 +1,6 @@
+{
+  "scss.lint.unknownAtRules": "ignore",
+  "eslint.workingDirectories": [
+    "./",
+  ]
+}
